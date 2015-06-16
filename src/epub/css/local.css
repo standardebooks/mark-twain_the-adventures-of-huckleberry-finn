@@ -58,3 +58,7 @@ p + .scene{
 *[epub|type~="z3998:poem"] br{
 	display: none;
 }
+
+abbr.name{
+	white-space: nowrap;
+}
