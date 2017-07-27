@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/mark-twain/the-adventures-of-huckleberry-finn</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2017-07-27T06:35:21Z</meta>
-		<meta property="se:revision-number">44</meta>
+		<meta property="dcterms:modified">2017-07-27T20:42:25Z</meta>
+		<meta property="se:revision-number">45</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -35,8 +35,8 @@
 		<dc:description id="description">The adventures of a young boy and his friend, an escaped slave, on the Mississippi river in the Antebellum South.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;One of the great American novels, &lt;i&gt;The Adventures of Huckleberry Finn&lt;/i&gt; tells the story of Huck Finn and his travels with Jim, an escaped slave.  Roundly criticised by contemporary reviewers for its colorful and literal language and even banned by several libraries, it sealed its historical importance in part by being one of the first novels to be written entirely in American vernacular.&lt;/p&gt;
-			&lt;p&gt;While &lt;i&gt;Huck Finn&lt;/i&gt; is, on its face, an adventure tale for younger readers, it’s also a cutting satire and a nuanced examination of racism and morality.  Hemingway called it “the best book we’ve had.”&lt;/p&gt;
+			&lt;p&gt;One of the great American novels, &lt;i&gt;The Adventures of Huckleberry Finn&lt;/i&gt; tells the story of Huck Finn and his travels with Jim, an escaped slave. Roundly criticised by contemporary reviewers for its colorful and literal language and even banned by several libraries, it sealed its historical importance in part by being one of the first novels to be written entirely in American vernacular.&lt;/p&gt;
+			&lt;p&gt;While &lt;i&gt;Huck Finn&lt;/i&gt; is, on its face, an adventure tale for younger readers, it’s also a cutting satire and a nuanced examination of racism and morality. Hemingway called it “the best book we’ve had.”&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
