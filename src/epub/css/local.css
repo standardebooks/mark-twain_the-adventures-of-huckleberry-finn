@@ -26,11 +26,6 @@ section[epub|type~="halftitlepage"] p,
 	font-variant: normal;
 }
 
-b{
-	font-variant: small-caps;
-	font-weight: normal;
-}
-
 .end{
 	margin: 2em 0;
 }
@@ -67,13 +62,8 @@ p span.i1{
 	padding-left: 2em;
 }
 
-abbr.name{
-	white-space: nowrap;
-}
-
 [epub|type~="z3998:poem"] header p{
 	font-variant: small-caps;
 	margin-bottom: 1em;
 	text-align: center;
-	text-indent: 0;
 }
