@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Adventures of Huckleberry Finn</dc:title>
 		<meta property="title-type" refines="#title">main</meta>
 		<meta property="file-as" refines="#title">Adventures of Huckleberry Finn, The</meta>
@@ -36,19 +36,21 @@
 		<dc:subject id="subject-2">Slavery--Fiction</dc:subject>
 		<dc:subject id="subject-3">Mississippi River--Fiction</dc:subject>
 		<dc:subject id="subject-4">Missouri--Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://lccn.loc.gov/92027398</meta>
-		<meta property="meta-auth" refines="#subject-2">http://lccn.loc.gov/92027398</meta>
-		<meta property="meta-auth" refines="#subject-3">http://lccn.loc.gov/92027398</meta>
-		<meta property="meta-auth" refines="#subject-4">http://lccn.loc.gov/92027398</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2008111718</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008107218</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008107219</meta>
 		<meta property="se:subject">Childrens</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">The adventures of a young boy and his friend, an escaped slave, on the Mississippi river in the Antebellum South.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;One of the great American novels, &lt;i&gt;The Adventures of Huckleberry Finn&lt;/i&gt; tells the story of Huck Finn and his travels with Jim, an escaped slave. Roundly criticised by contemporary reviewers for its colorful and literal language and even banned by several libraries, it sealed its historical importance in part by being one of the first novels to be written entirely in American vernacular.&lt;/p&gt;
 			&lt;p&gt;While &lt;i&gt;Huck Finn&lt;/i&gt; is, on its face, an adventure tale for younger readers, it’s also a cutting satire and a nuanced examination of racism and morality. Hemingway called it “the best book we’ve had.”&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/76</dc:source>
 		<dc:source>https://archive.org/details/adventhuckfinn00twairich</dc:source>
