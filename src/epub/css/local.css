@@ -1,13 +1,13 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-[epub:type~="z3998:signature"]{
+[epub|type~="z3998:signature"]{
 	font-style: italic;
 	margin-top: 2em;
 	text-align: right;
 }
 
-[epub:type~="z3998:signature"] + [epub:type~="z3998:signature"]{
+[epub|type~="z3998:signature"] + [epub|type~="z3998:signature"]{
 	margin-top: auto;
 }
 
