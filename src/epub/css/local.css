@@ -52,11 +52,6 @@ p + .scene{
 	display: none;
 }
 
-[epub|type~="z3998:poem"] + p,
-[epub|type~="z3998:verse"] + p{
-	text-indent: 0;
-}
-
 p span.i1{
 	text-indent: -1em;
 	padding-left: 2em;
