@@ -32,6 +32,7 @@
 		<meta property="title-type" refines="#title">main</meta>
 		<meta property="file-as" refines="#title">Adventures of Huckleberry Finn, The</meta>
 		<dc:title id="title-short">Huck Finn</dc:title>
+		<meta property="file-as" refines="#title-short">Huck Finn</meta>
 		<meta property="title-type" refines="#title-short">short</meta>
 		<dc:subject id="subject-1">Voyages and travels--Fiction</dc:subject>
 		<dc:subject id="subject-2">Slavery--Fiction</dc:subject>
