@@ -51,6 +51,8 @@
 		<meta id="collection-1" property="belongs-to-collection">The Guardian’s Best 100 Novels in English (2015)</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">23</meta>
+		<meta id="collection-2" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
 		<dc:description id="description">The adventures of a young boy and his friend, an escaped slave, on the Mississippi river in the Antebellum South.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;One of the great American novels, &lt;i&gt;The Adventures of Huckleberry Finn&lt;/i&gt; tells the story of Huck Finn and his travels with Jim, an escaped slave. Roundly criticised by contemporary reviewers for its colorful and literal language and even banned by several libraries, it sealed its historical importance in part by being one of the first novels to be written entirely in American vernacular.&lt;/p&gt;
