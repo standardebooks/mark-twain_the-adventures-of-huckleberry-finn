@@ -2,8 +2,11 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 [epub|type~="z3998:signature"]{
-	font-style: italic;
-	margin-top: 2em;
+	font-variant: small-caps;
+}
+
+footer{
+	margin-top: 1em;
 	text-align: right;
 }
 
