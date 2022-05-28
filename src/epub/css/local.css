@@ -33,7 +33,7 @@ section[epub|type~="halftitlepage"] p,
 	margin: 2em 0;
 }
 
-p + .scene{
+[epub|type~="halftitlepage"] p:last-child{
 	margin-top: 3em;
 }
 
