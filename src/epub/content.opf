@@ -70,6 +70,7 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79021164</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wfw</meta>
 		<dc:contributor id="artist">N. C. Wyeth</dc:contributor>
 		<meta property="file-as" refines="#artist">Wyeth, N. C.</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Newell Convers Wyeth</meta>
