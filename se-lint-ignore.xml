@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-21.xhtml">
 		<ignore code="t-033">
+			<line>78</line>
 			<reason>Broken dash is part of the prose style.</reason>
 		</ignore>
 	</file>
