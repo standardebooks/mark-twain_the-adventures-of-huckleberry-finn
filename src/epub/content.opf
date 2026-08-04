@@ -56,7 +56,7 @@
 		<meta id="collection-3" property="belongs-to-collection">The Guardian’s 100 Greatest Novels of All Time (2003)</meta>
 		<meta property="collection-type" refines="#collection-3">set</meta>
 		<meta property="group-position" refines="#collection-3">31</meta>
-		<dc:abstract>The adventures of a young boy and his friend, an escaped slave, on the Mississippi river in the Antebellum South.</dc:abstract>
+		<meta property="schema:abstract">The adventures of a young boy and his friend, an escaped slave, on the Mississippi river in the Antebellum South.</meta>
 		<dc:description>
 			&lt;p&gt;One of the great American novels, &lt;i&gt;The Adventures of Huckleberry Finn&lt;/i&gt; tells the story of Huck Finn and his travels with Jim, an escaped slave. Roundly criticised by contemporary reviewers for its colorful and literal language and even banned by several libraries, it sealed its historical importance in part by being one of the first novels to be written entirely in American vernacular.&lt;/p&gt;
 			&lt;p&gt;While &lt;i&gt;Huck Finn&lt;/i&gt; is, on its face, an adventure tale for younger readers, it’s also a cutting satire and a nuanced examination of racism and morality. Hemingway called it “the best book we’ve had.”&lt;/p&gt;
